@@ -1,0 +1,18 @@
+Package: GitHubActionsR
+Title: HOW TO BUILD A PACKAGE USING GITHUB ACTIONS AND SECRETS
+Version: 0.0.1.0
+Authors@R: 
+    person(given = "Juergen",
+           family = "Amann",
+           role = c("aut", "cre"),
+           email = "amannj.work@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: A quick tutorial on how to build a package using GitHub Actions and seecrets.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    testthat
+Config/testthat/edition: 3
